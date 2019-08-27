@@ -84,3 +84,10 @@ h4{
     margin: 10xp 0 !important;
     letter-spacing: 0.2rem;
 }
+button{
+    margin: 20px 30px !important;
+    border: solid 2px ;
+    width: 250px;
+    height: 40px;
+    
+}
