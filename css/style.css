@@ -2,9 +2,6 @@
     margin: 0;
     padding: 0;
 }
-.view {
-  height: 100%;
-}
 
 body{
     font-family: sans-serif;
@@ -21,10 +18,15 @@ body{
 }
 .navbar{
     background-color: #262626;
-    padding: 0 !important;
+    padding: 0 ;
 }
 .navbar-brand img{
     float: left;
+    height: 50px;
+    padding-left: 20px;
+}
+.navbar-brand1 img{
+    float: right;
     height: 50px;
     padding-left: 20px;
 }
@@ -43,7 +45,7 @@ body{
     text-align: left;
 }
 .navbar-toggler{
-    outline: none !important;
+    outline: none;
 }
 
 /*--------------content----------------*/
